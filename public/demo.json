@@ -1,0 +1,16 @@
+{
+  "text": "Demo TRMNL App",
+  "author": "Jacob Field",
+  "note": "Does this support pulling html directly, or does it need to be JSON that gets formatted by an app?",
+  "collection": [
+    {
+      "title": "Book title",
+      "description": "Some description"
+    },
+    {
+      "title": "Another book",
+      "description": "Another description"
+    }
+  ]
+}
+
