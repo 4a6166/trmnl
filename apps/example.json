@@ -1,0 +1,27 @@
+{
+  markup: '<div class="view view--full">
+    <div class="layout">
+      <div class="columns">
+        <div class="column">
+          <div class="markdown gap--large">
+            <span class="title">Examplesssss</span>
+            <div class="content-element content content--center">Hello</div>
+            <span class="label label--underline mt-4">World</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  <div>',
+
+  markup_half_horizontal: '<div class="view view--half_horizontal">
+    ----- Half Horizontal content
+  </div>',
+
+  markup_half_vertical: '<div class="view view--half_vertical">
+    ||||| Half Vertical content
+  </div>',
+
+  markup_quadrant: '<div class="view view--quadrant">
+    ##### Quadrant content
+  </div>',
+}
