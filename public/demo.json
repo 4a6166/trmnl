@@ -2,6 +2,7 @@
   "text": "Demo TRMNL App",
   "author": "Jacob Field",
   "note": "Does this support pulling html directly, or does it need to be JSON that gets formatted by an app?",
+  "temp" : "temp Test",
   "halfh": "<div style=\"display:flex; flex-direction:column;\"><span class=\"value value--small\">{{ text }}</span><div class=\"label label--small\">Being created by <span style=\"text-decoration:underline;\">{{ author }}</span></div> </div>",
   "collection": [
     {
