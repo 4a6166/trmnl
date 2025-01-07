@@ -1,0 +1,16 @@
+{
+  "items" :[
+    {
+      "id": 1,
+      "text": "First TODO",
+      "created": "2025-01-07 Tue 03:59 PM",
+      "completed": 0
+    },
+    {
+      "id": 2,
+      "text": "Second TODO",
+      "created": "2025-01-07 Tue 03:59 PM",
+      "completed": 1
+    }
+  ]
+}
